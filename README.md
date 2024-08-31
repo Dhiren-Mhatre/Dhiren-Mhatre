@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dhiren-Mhatre?tab=repositories](https://github.com/Dhiren-Mhatre?tab=repositories)
 
-- 💬 Ask me about **Data Structures,Front-End Devlopment**
+- 💬 Ask me about **Data Structures,MERN Stack Devlopment,NEXT.JS,DEVOPS**
 
 - 📫 How to reach me **dhiren98675@gmail.com**
 
