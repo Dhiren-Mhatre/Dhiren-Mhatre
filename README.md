@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhiren-mhatre" alt="dhiren-mhatre" /></a> </p>
 
-- 🌱 I’m currently learning **Low Latency Trading Systems, React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dhiren-Mhatre?tab=repositories](https://github.com/Dhiren-Mhatre?tab=repositories)
 
