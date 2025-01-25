@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Data Structures,MERN Stack Devlopment,NEXT.JS,DEVOPS**
 
-- 📫 How to reach me **dhiren98675@gmail.com**
+- 📫 How to reach me **kp064669@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
