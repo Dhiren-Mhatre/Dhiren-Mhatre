@@ -1,27 +1,55 @@
-<h1 align="center">Hi 👋, I'm Dhiren Mhatre</h1>
-<h3 align="center">Code Crafting Enthusiast & Passionate Problem Solver</h3>
+<!-- ----------- HEAD SECTION ------------ -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhiren-mhatre&label=Profile%20views&color=0e75b6&style=flat" alt="dhiren-mhatre" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhiren-mhatre" alt="dhiren-mhatre" /></a> </p>
-
-
-- 👨‍💻 All of my projects are available at [https://github.com/Dhiren-Mhatre?tab=repositories](https://github.com/Dhiren-Mhatre?tab=repositories)
-
-- 💬 Ask me about **Data Structures,MERN Stack Devlopment,NEXT.JS,DEVOPS**
-
-- 📫 How to reach me **kp064669@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dhiren mhatre(https://www.linkedin.com/in/dhiren-mhatre-6291b1248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhiren mhatre(https://www.linkedin.com/in/dhiren-mhatre-6291b1248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" height="30" width="40" /></a>
-<a href="https://instagram.com/dhiren_741" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhiren_741" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Dhiren;+An+Open+Source+Contributor+🌟;A+Competitive+Programmer+💻;A+Distributed+Systems+Fan+🌐;A+Jack+of+All+Trades+📖;">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhiren-mhatre&show_icons=true&locale=en" alt="dhiren-mhatre" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhiren-mhatre&" alt="dhiren-mhatre" /></p>
+---
 
+<span>[<kbd> <br> LeetCode <br> </kbd>]([https://leetcode.com/anujagrawal699/](https://leetcode.com/u/dhiren986/))</span>
+ 
+<span>[<kbd> <br> Work Experience <br> </kbd>](#work-experience)</span>
+<span>[<kbd> <br> Open-Source Contributions <br> </kbd>](#open-source-contributions)</span>
+ 
+<span>[<kbd> <br> Quotes I Like <br> </kbd>](#quotes-i-like)</span>
+
+---
+
+<table>
+  <tr>
+      <td><a href="https://github.com/Dhiren-Mhatre"><img src="https://img.shields.io/github/followers/sayannath.svg?label=GitHub&style=social" alt="GitHub"></a></td>
+    <td><a href="https://www.linkedin.com/in/dhiren-mhatre/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
+    <td><a href="mailto:kp064669@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
+  </tr>
+</table>
+
+</div>
+
+## About
+
+-  I am a junior undergraduate computer science student at SGGSIE&T, Nanded.
+- I love to work on new technologies and try to be as adaptable as possible. (We can do anything, Believe it!)
+- 💬 Feel free to ask me anything related to Computer Science!
+
+## Work Experience
+
+
+| 🏢 Company/Org | 💼 Role | ⏰ Duration |
+| --- | --- | --- |
+| [Cloud Native Computing Foundation](https://github.com/search?q=is%3Apr+author%3ADhiren-Mhatre&sort=updated&order=desc&type=pullrequests&s=&o=desc) | Open Source Contributor| jan 2025 - Present |
+| [Palisadoes Foundation]((https://github.com/search?q=is%3Apr+author%3ADhiren-Mhatre&sort=updated&order=desc&type=pullrequests&s=&o=desc)) | Open Source Contributor | dec 2024 - Present |
+| [DigiFuture Labs](https://drive.google.com/file/d/16cyUm2K_5uXY_IeO28YPFC3ev5DxFGF5/view?usp=sharing) | Software Engineering Intern | oct 2024 - dec 2024 |
+ 
+ 
+
+## Quotes I Like
+- "Progress requires unlearning. Becoming the best version of yourself requires you to continuously edit your beliefs, and to upgrade and expand your identity." - ([James Clear](https://en.wikipedia.org/wiki/James_Clear) - Atomic Habits)
+- “The cure for boredom is curiosity. There is no cure for curiosity.” - ([Nir Eyal](https://en.wikipedia.org/wiki/Nir_Eyal) - Indistractable)
+- "Most people don’t want to acknowledge the uncomfortable truth that distraction is always an unhealthy escape from reality." - ([Nir Eyal](https://en.wikipedia.org/wiki/Nir_Eyal) - Indistractable)
+- "Theory and practice sometimes clash. And when that happens, theory loses. Every single time." - ([Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) - Creator of Linux & Git)
+- "Information flow is what the Internet is about. Information sharing is power. If you don't share your ideas, smart people can't do anything about them, and you'll remain anonymous and powerless." ([Vint Cerf](https://en.wikipedia.org/wiki/Vint_Cerf) - The Father of the Internet)
+- "I often compare open source to science. To where science took this whole notion of developing ideas in the open and improving on other peoples' ideas and making it into what science is today and the incredible advances that we have had. And I compare that to witchcraft and alchemy, where openness was something you didn't do." ([Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) - Creator of Linux & Git)
+- "Don’t take criticism from someone you wouldn’t take advice from." ([Jim Kwik](https://en.wikipedia.org/wiki/Jim_Kwik) - Limitless)
