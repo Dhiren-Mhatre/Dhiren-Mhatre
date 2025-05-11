@@ -3,9 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Dhiren;+An+Open+Source+Contributor+🌟;A+Competitive+Programmer+💻;A+Distributed+Systems+Fan+🌐;A+Jack+of+All+Trades+📖;">
 </p>
 <div align="center">
-
-
-
 <table>
   <tr>
     <td><a href="https://github.com/Dhiren-Mhatre"><img src="https://img.shields.io/github/followers/sayannath.svg?label=GitHub&style=social" alt="GitHub"></a></td>
@@ -23,6 +20,7 @@
 ## Work Experience
 | 🏢 Company/Org | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
+| [Center For Translational Data Science](https://summerofcode.withgoogle.com/myprojects/details/qN3DzmD8) | Google Summer of Code Contributor | May 2025 - Sept 2025 |
 | [Cloud Native Computing Foundation](https://github.com/search?q=is%3Apr+author%3ADhiren-Mhatre&sort=updated&order=desc&type=pullrequests&s=&o=desc) | LFX Mentee | March 2025 - Present |
 | [DigiFuture Labs](https://drive.google.com/file/d/16cyUm2K_5uXY_IeO28YPFC3ev5DxFGF5/view?usp=sharing) | Software Engineering Intern | Oct 2024 - Dec 2024 |
 
